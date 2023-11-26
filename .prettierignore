@@ -1,0 +1,11 @@
+package-lock.json
+yarn.lock
+
+.DS_Store
+ui-debug.log
+firebase-debug.log
+
+node_modules/
+dist/
+build/
+.firebase/

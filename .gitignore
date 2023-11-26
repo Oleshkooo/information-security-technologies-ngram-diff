@@ -1,0 +1,13 @@
+**/node_modules/
+**/.firebase/
+**/.firebase/
+**/.react-email/
+**/.vscode/
+**/build/
+**/dist/
+**/yarn.lock
+**/.env
+**/.env.development
+**/.env.production
+**/.DS_Store
+**/bun.lockb
